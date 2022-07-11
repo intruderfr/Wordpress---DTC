@@ -1,0 +1,31 @@
+2022-07-08T08:00:15+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:16+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:46+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:46+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:48+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:49+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:55+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:55+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:57+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T08:00:57+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:208) in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 226
+
+2022-07-08T11:00:21+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_scrtipt() in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php:143
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\class-wp-hook.php(307): dtctheme_scripts('')
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\script-loader.php(2156): do_action('wp_enqueue_scri...')
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#7 C:\U in C:\Users\Aslam Ahamed\Local Sites\dtc-shop\app\public\wp-content\themes\dtctheme\functions.php on line 143
+
